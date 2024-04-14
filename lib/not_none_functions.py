@@ -1,2 +1,2 @@
-def return_not_none():
-    return None
+def return_not_none(param):
+    return f'{param}'
